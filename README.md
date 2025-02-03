@@ -1,5 +1,3 @@
-# 1_LD_Memorability
-
 # Memorability of scene line drawings
 This research examines why certain images are more memorable than others. I applied computational modelling and experimental methods to analyze how shape-based contour features influence memorability. Even without colour or texture, line drawings retained memorability patterns similar to photographs. Using Random Forest models, I identified key predictors, such as T-junctions, and demonstrated their causal role through targeted image manipulations.
 
